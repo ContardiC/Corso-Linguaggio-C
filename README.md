@@ -3,5 +3,5 @@ Questo repository contiene il materiale didattico per il corso di programmazione
 
 ## Lezioni
 - Lezione1
-  1. Stampa su standard output (hello.c)
-  2. Variabili (variabili.c)
+  1. Stampa su standard output (**hello.c**)
+  2. Variabili (**variabili.c**)
