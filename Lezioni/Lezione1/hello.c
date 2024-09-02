@@ -1,4 +1,7 @@
 #include<stdio.h>
 int main(){
-    printf("Hello world! \n");
+    // stampo su standard output 
+    printf("Hello world! ");
+    // stampo su std out e vado a capo
+    printf("Hello World \n");
 }
