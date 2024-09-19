@@ -4,7 +4,7 @@ Questo repository contiene il materiale didattico per il corso di programmazione
 ## Lezioni
 - Lezione1
   1. **hello.c** -> Stampa su standard output 
-  2. **variabili.c** -> Creazione e stampa del valore contenuto in alcune variabili di tipo int
+  2. **variabili.c** -> Dichiarazione e stampa del range di variabili di tipo short, int, long, float, double e char 
 ## Materiale
 ### Slides
 - Compilatore e Linker nel Linguaggio C
